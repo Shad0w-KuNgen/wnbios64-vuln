@@ -1,8 +1,8 @@
-Abuses r/w from pte&pfn manipulation ( SELF-LEAK )
+Abuses r/w from pte&pfn manipulation (SELF-LEAK)
 
-Someone Leaked it, not going to state there name because i dont want to give them the attention they want. They are Pretending they worked on it, He never worked on this he ratted someone for it.
+Someone leaked it. I'm not going to state their name because I don't want to give them the attention they want. They are pretending they worked on it. He never worked on it; he ratted someone for it.
 
-P.S I did not use this for a P2C or anything and also this needs working doing to it, it is a unfinished project.
+P.S. I did not use this for a P2C or anything, and also, this needs work done to it; it is an unfinished project.
 
-Unknowncheats Link Below where my Friend has posted it for me.
+Unknowncheats Link below, where my friend has posted it for me.
 https://www.unknowncheats.me/forum/anti-cheat-bypass/629396-abuses-pte-pfn-manipulation.html#post4032010
